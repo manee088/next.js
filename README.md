@@ -75,7 +75,7 @@
     </section>
 
     <section class="cta">
-        <h2>SPECIAL PRICE: $25 (Normally $297)</h2>
+        <h2>SPECIAL PRICE: $25 (Normally $32)</h2>
         <p>Choose Your Preferred Platform:</p>
         <a href="https://suleiman218.gumroad.com/l/owltjy" class="button">GET IT ON GUMROAD</a>
         <a href="https://whop.com/digital-educational-guide/make-money-through-affiliate-marketing-beginner-guide-to-pro/" class="button">GET IT ON WHOP</a>
